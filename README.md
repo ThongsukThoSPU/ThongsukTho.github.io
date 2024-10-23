@@ -1,1 +1,1 @@
-View my web page go to [https://ThongsukThoSPU.github.io](https://ThongsukThoSPU.github.io)
+View my web page go to [https://ThongsukTho.github.io](https://ThongsukTho.github.io)
